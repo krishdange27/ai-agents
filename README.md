@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![AI Agents](https://img.shields.io/badge/AI-Agents-purple)
-![Focus](https://img.shields.io/badge/Focus-Probabilistic%20%7C%20Search%20%7C%20RL-blueviolet)
+![Focus](https://img.shields.io/badge/Focus-Reinforcement%20Learning%20%7C%20Search%20%7C%20Probabilistic-success)
 ![From Scratch](https://img.shields.io/badge/Implementation-From%20Scratch-orange)
 
 ### Engineering and Evaluating Intelligent Systems Across Probabilistic Reasoning, Search, and Reinforcement Learning
