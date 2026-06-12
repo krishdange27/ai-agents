@@ -1,14 +1,15 @@
 # AI Agents
 
-### Engineering and Evaluating Intelligent Systems Across Probabilistic Reasoning, Search, and Reinforcement Learning
-
-> Exploring how design decisions influence the behaviour, performance, and learning dynamics of intelligent systems.
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![AI Agents](https://img.shields.io/badge/AI-Agents-purple)
 ![Probabilistic · Search · RL](https://img.shields.io/badge/Paradigms-Probabilistic%20%7C%20Search%20%7C%20RL-blueviolet)
 ![From Scratch](https://img.shields.io/badge/Implementation-From%20Scratch-orange)
 ![Tests](https://img.shields.io/badge/Tests-57%20Passed-brightgreen)
+
+### Engineering and Evaluating Intelligent Systems Across Probabilistic Reasoning, Search, and Reinforcement Learning
+
+> Exploring how design decisions influence the behaviour, performance, and learning dynamics of intelligent systems.
+
 ---
 
 ## Overview
