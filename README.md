@@ -206,9 +206,3 @@ Planned extensions that naturally build on the existing paradigms.
 ### Reinforcement Learning Agents
 
 * Grid World Agent
-
----
-
-## License
-
-MIT License
